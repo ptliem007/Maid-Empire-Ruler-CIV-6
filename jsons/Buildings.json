@@ -1,0 +1,15 @@
+[	
+	{
+		"name": "Maid Mansion",
+		"replaces": "Neighborhood",
+		"uniqueTo": "The United Maid",
+		"maintenance": 1,
+		"happiness": 1,
+		"cityStrength": 5,
+		"cost": 50,
+		"uniques": ["[10]% of food is carried over after population increases",
+            "Cost increases by [5] per owned city", "Requires [Nationalism]",
+			"[+1 culture] once [Archaeology] is discovered"],
+		"requiredTech": "Mathematics"
+	},
+]

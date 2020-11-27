@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Maid Trooper",
+		"effect": "Bonus vs City 50%. This unit heals 5 additional HP outside of friendly territory.",
+	},
+	{
+		"name": "Anti Infantry",
+		"uniques": ["Bonus vs Melee 25%", "Bonus vs Ranged 25%"],
+	},
+]

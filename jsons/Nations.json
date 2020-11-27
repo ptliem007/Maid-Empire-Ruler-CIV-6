@@ -1,0 +1,26 @@
+[
+	{
+		"name": "The United Maid",
+		"leaderName": "Cordelia",
+		"adjective": ["The United Maid"],
+		"preferredVictoryType": "Domination",
+		//"startIntroPart1": "Hail Empire! All hail for the maid! It's time to make the world look back, it's time to control the world! Maid is not lowly job, we will build new order for the world. It time to rise all sisters!",
+		//"startIntroPart2": "The United Maid rise from mid world war, led by Cordelia, a maid and also is a great general. With assistance from her master and other general below her master, the The United Maid hopes to bring respect to Maid, and set the new rule for the world. Can they the reach it and become the winners?",
+		"declaringWar": "It time to war!",
+		"attacked": "Prepair yousell.",
+		"defeated": "....",
+		"introduction": "Cordelia of the United Maid, nice to meet you.",
+		"neutralHello": "Hi.",
+		"hateHello": ".... (glanced with an annoyed)",
+		"tradeRequest": "Can we trade?",
+		"outerColor": [0,0,140],
+		"innerColor": [255,255,255],
+		"uniqueName": "Order of lady Cordelia - Maid war policies",
+		"uniques": ["[+1 Production, +1 Culture] from every specialist", "+2 happiness in each city",
+			"[+1 Production] from every [City Center]", "[+1 Culture] from every [Encampment]", 
+			"+15% combat strength for units fighting in friendly territory"],
+		"cities": ["Cordelia Base", "Maria", "Mariel", "Maidlyopolis", "Belfast", "Sakuya", "Angelina", "Yuri Alpha", "Dragon Maid",
+			"Hammann", "Farin K. EHRLICHKEIT", "Noel K. EHRLICHKEIT", "Aqua", "Kaoru", "Wilhelmina CARMEL", "Lizlet L. CHELSIE", "Mahoro", "Hazuki",
+			"Arianna", "Rem", "Ram"]
+	},
+]
