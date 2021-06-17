@@ -16,7 +16,7 @@
 		"outerColor": [0,0,140],
 		"innerColor": [255,255,255],
 		"uniqueName": "Order of lady Cordelia - Maid war policies",
-		"uniques": ["[+1 Production, +1 Culture] from every specialist", "+2 happiness in each city",
+		"uniques": ["[+1 Production, +1 Culture] from every specialist", "[+2 Happiness] in all cities",
 			"[+1 Production] from every [City Center]", "[+1 Culture] from every [Encampment]", 
 			"+[15]% combat bonus for units fighting in [Friendly Land]"],
 		"cities": ["Cordelia Base", "Maria", "Mariel", "Maidlyopolis", "Belfast", "Sakuya", "Angelina", "Yuri Alpha", "Dragon Maid",
