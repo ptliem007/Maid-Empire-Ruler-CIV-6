@@ -196,7 +196,7 @@
 		"uniqueTo": "The United Maid",
 		"replaces": "Great General",
 		"uniques": ["Bonus for units in 2 tile radius 15%", "Great Person - [War]", "Unbuildable",
-					"+1 Visibility Range", "Invisible to others"],
+					"[+1] Visibility Range", "Invisible to others"],
 		"movement": 3
 	},
 ]
